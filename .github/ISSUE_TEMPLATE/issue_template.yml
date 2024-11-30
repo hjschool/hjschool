@@ -1,7 +1,7 @@
 name: issueテンプレート
 description: issueテンプレート
 labels: "運用"
-projects: "ユーザー名/projectナンバー" # https://github.com/users/ysk91/projects/4の場合、"ysk91/4"
+projects: "hjschool/2" # https://github.com/users/ysk91/projects/4の場合、"ysk91/4"
 body:
   - type: markdown
     attributes:
